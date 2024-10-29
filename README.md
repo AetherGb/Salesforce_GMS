@@ -10,21 +10,27 @@ The **Garage Management System (GMS)** is a comprehensive CRM solution built on 
     * Store and manage customer details including contact information, service history, and preferences.
     * Access comprehensive service records for customer insights and tailored service.
       
-![Customer_details](Screenshots/GarageManagementSystemApplication/Screenshot1)
+![Customer_details](https://github.com/AetherGb/Salesforce_GMS/blob/main/Screenshots/GarageManagementSystemApplication/Screenshot1.png?raw=true)
 
 * **Appointment:**
     * Schedule and manage appointments with mechanics.
     * Automated reminders and notifications to reduce no-shows.
     * Integrated calendar to optimize working time.
 
+![Appointment](https://github.com/AetherGb/Salesforce_GMS/blob/main/Screenshots/GarageManagementSystemApplication/Screenshot2.png?raw=true)
+
 * **Service Records:**
     * Track detailed service information including service type, parts used, and associated costs.
     * Link service records to specific customer appointments for easy tracking and reference.
+
+![Service_Records](https://github.com/AetherGb/Salesforce_GMS/blob/main/Screenshots/GarageManagementSystemApplication/Screenshot3.png?raw=true)
 
 * **Billing details:**
     * Generate and manage billing details, linking them to service records.
     * Track payment status and send timely payment reminders.
     * Automated invoice generation and email notifications for a streamlined payment process.
+
+![Billing_details](https://github.com/AetherGb/Salesforce_GMS/blob/main/Screenshots/GarageManagementSystemApplication/Screenshot4.png?raw=true)
 
 * **Feedback:**
     * Collect and manage customer feedback post-service.
