@@ -9,6 +9,8 @@ The **Garage Management System (GMS)** is a comprehensive CRM solution built on 
 * **Customer details:**
     * Store and manage customer details including contact information, service history, and preferences.
     * Access comprehensive service records for customer insights and tailored service.
+      
+![Customer_details](Screenshots/GarageManagementSystemApplication/Screenshot1)
 
 * **Appointment:**
     * Schedule and manage appointments with mechanics.
